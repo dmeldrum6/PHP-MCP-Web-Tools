@@ -213,7 +213,7 @@ define('MCP_SSE_TIMEOUT', 55);
 ## Compatibility
 
 **MCP server** — works with any client that supports MCP over HTTP+SSE transport, including:
-- LM Studio (1.0+)
+- LM Studio (4.0+)
 - Any custom client using the MCP spec
 
 **Chat client** — works with any OpenAI-compatible API endpoint, including:
