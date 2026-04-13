@@ -5,6 +5,7 @@
 Give your local LLM real tool access without running a second process, opening firewall ports, or touching Node.js or Python. Upload a handful of PHP files to any standard web host and you're done.
 
 <img width="723" height="68" alt="image" src="https://github.com/user-attachments/assets/0d2261a0-e0ac-4178-9b9c-f225c5c57e63" />
+<img width="928" height="339" alt="image" src="https://github.com/user-attachments/assets/6d5beb12-3986-49f5-bfe6-9d165a8eee26" />
 <img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/8782bd4f-9561-4731-b61b-9389fad81c49" />
 
 ---
